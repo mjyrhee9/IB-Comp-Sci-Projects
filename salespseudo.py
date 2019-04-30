@@ -1,0 +1,2 @@
+passengers = [][]
+total = 0
